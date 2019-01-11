@@ -2,3 +2,8 @@ theme: jekyll-theme-hacker
 title: Xing Xie's Paradise
 description: A place to put notes on thoughts
 show_downloads: true
+disqus: 'xingxie'
+comments: true
+
+github_username:  xingxie
+permalink: /:year/:month/:day/:title/
